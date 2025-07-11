@@ -48,7 +48,7 @@
     text-decoration: none;
     font-weight: bold;
   }
-  /* Action-Section style
+   /* Action-Section style */
     .Action-Section{
       display: flex;
       justify-content: space-between;
@@ -73,7 +73,7 @@
     width: 350PX;
     }
    /* Productive-Users-Section style */
-  .Productive-Users-Section{
+  /*.Productive-Users-Section{
     background-color: #ffffff;
     padding: 50px 100px;
   }
