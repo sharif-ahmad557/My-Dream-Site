@@ -110,17 +110,17 @@
     margin-left: 100px;
     gap: 80px;
   }
-  /* challege-section style */
+  /* challenge-section style */
 
 
-  /*.challege-section{
+  .challenge-section{
     background-color: #eef2fc;
     padding: 50px 100px;
 
     
 
   }
-   .challege{
+   .challenge{
     text-align: center;
     font-size: 36px;
     font-weight: bold;
@@ -187,7 +187,7 @@
     padding-bottom:15px ;
   }
   /* Ready-to-focus style */
-  .Ready-to-focus{
+  /*.Ready-to-focus{
     align-items:center;
     text-align: center;
     background-color: #eef2fc;
